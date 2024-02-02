@@ -1,28 +1,3 @@
-/**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
- * **********************************************
- *   Code by RTX GAMING
- * **********************************************
- */
-
-# code License Agreement
-
-**Effective Date:** 19/10/2023
-
-**Between:**
-[RTX GAMING]
-
-**And:**
-End-User ("Licensee")
-
 ## License Grant
 
 Licensor grants Licensee a non-exclusive, non-transferable license to use the bot code under the terms and conditions set forth in this Agreement.
@@ -49,27 +24,3 @@ The code is provided "as is" without any warranty, express or implied, including
 ## Limitation of Liability
 
 Licensor's liability for any damages arising out of this Agreement shall be limited to the amount paid by Licensee for the code.
-
-
-## Contact Information
-
-If you have any questions or need to contact Licensor, please reach out to [RTX#2419].
-
----
-
-**By using the code, Licensee agrees to the terms of this License Agreement.**
-
-/**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
- * **********************************************
- *   Code by RTX GAMING
- * **********************************************
- */
