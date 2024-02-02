@@ -15,11 +15,11 @@ app.get('/', (req, res) => {
 });
 app.listen(port, () => {
   console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`❤️ Powered By discord.gg/animeworld`);
+  console.log(`🔗 Powered By RTX`);
 });
 
 
-const statusMessages = ["Watching Animeworld","Listening to Animeworld","Playing Animeworld"];
+const statusMessages = ["Watching Netflix","Listening to Spotify","Playing GTA VI"];
 
 
 let currentIndex = 0;
@@ -34,7 +34,6 @@ async function login() {
     process.exit(1);
   }
 }
-
 function updateStatusAndSendMessages() {
   const currentStatus = statusMessages[currentIndex];
   const nextStatus = statusMessages[(currentIndex + 1) % statusMessages.length];
@@ -69,3 +68,4 @@ client.once('ready', () => {
 });
 
 login();
+
