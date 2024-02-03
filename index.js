@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Animeworld","Playing in Animeworld","Listening to requests in Animeworld"];
+const statusMessages = ["Watching Animeworld","Playing in Animeworld","Listening to Animeworld"];
 
 
 let currentIndex = 0;
